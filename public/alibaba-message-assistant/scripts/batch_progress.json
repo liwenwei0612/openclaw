@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "note": "Checkpoint file for batch reading Alibaba Message conversations",
+  "cutoffDays": 30,
+  "tag": "寿司",
+  "lastRunAt": null,
+  "completed": [],
+  "failed": [],
+  "cursor": null
+}
